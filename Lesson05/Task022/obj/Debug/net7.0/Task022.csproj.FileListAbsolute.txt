@@ -1,0 +1,15 @@
+C:\Users\King\Desktop\GB_Digital_Master\С#\Practicum\Seminars\Lesson05\Task022\obj\Debug\net7.0\Task022.csproj.AssemblyReference.cache
+C:\Users\King\Desktop\GB_Digital_Master\С#\Practicum\Seminars\Lesson05\Task022\obj\Debug\net7.0\Task022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\King\Desktop\GB_Digital_Master\С#\Practicum\Seminars\Lesson05\Task022\obj\Debug\net7.0\Task022.AssemblyInfoInputs.cache
+C:\Users\King\Desktop\GB_Digital_Master\С#\Practicum\Seminars\Lesson05\Task022\obj\Debug\net7.0\Task022.AssemblyInfo.cs
+C:\Users\King\Desktop\GB_Digital_Master\С#\Practicum\Seminars\Lesson05\Task022\obj\Debug\net7.0\Task022.csproj.CoreCompileInputs.cache
+C:\Users\King\Desktop\GB_Digital_Master\С#\Practicum\Seminars\Lesson05\Task022\bin\Debug\net7.0\Task022.exe
+C:\Users\King\Desktop\GB_Digital_Master\С#\Practicum\Seminars\Lesson05\Task022\bin\Debug\net7.0\Task022.deps.json
+C:\Users\King\Desktop\GB_Digital_Master\С#\Practicum\Seminars\Lesson05\Task022\bin\Debug\net7.0\Task022.runtimeconfig.json
+C:\Users\King\Desktop\GB_Digital_Master\С#\Practicum\Seminars\Lesson05\Task022\bin\Debug\net7.0\Task022.dll
+C:\Users\King\Desktop\GB_Digital_Master\С#\Practicum\Seminars\Lesson05\Task022\bin\Debug\net7.0\Task022.pdb
+C:\Users\King\Desktop\GB_Digital_Master\С#\Practicum\Seminars\Lesson05\Task022\obj\Debug\net7.0\Task022.dll
+C:\Users\King\Desktop\GB_Digital_Master\С#\Practicum\Seminars\Lesson05\Task022\obj\Debug\net7.0\refint\Task022.dll
+C:\Users\King\Desktop\GB_Digital_Master\С#\Practicum\Seminars\Lesson05\Task022\obj\Debug\net7.0\Task022.pdb
+C:\Users\King\Desktop\GB_Digital_Master\С#\Practicum\Seminars\Lesson05\Task022\obj\Debug\net7.0\Task022.genruntimeconfig.cache
+C:\Users\King\Desktop\GB_Digital_Master\С#\Practicum\Seminars\Lesson05\Task022\obj\Debug\net7.0\ref\Task022.dll
